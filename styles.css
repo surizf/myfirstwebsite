@@ -1,0 +1,19 @@
+body{
+  padding: 25px;
+  background-color: pink;
+}
+.title {
+	color: brown;
+	text-align: center;
+}
+.cat-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.paragraph {
+  text-align: center;
+  color: blue;
+  font-size: 25px;
+}
